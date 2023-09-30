@@ -20,3 +20,13 @@ header a:hover{
     background-color: rgb(241, 236, 245);
 
 }
+.footer{
+    color: red;
+    margin-left:550px;
+    margin-bottom:50px;
+}
+a{
+    float:right;
+    margin-top:10px;
+    margin-right:140px;
+}
